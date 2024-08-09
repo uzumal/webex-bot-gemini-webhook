@@ -1,6 +1,6 @@
 # Gemini Webex Bot 🤖💬
 
-Gemini is your friendly AI assistant for Webex spaces. It leverages the power of the Gemini AI model to provide intelligent responses and summaries within your conversations.
+Gemini is your friendly AI assistant for Webex spaces. It leverages the power of the Gemini AI model to provide intelligent responses and summaries within your conversations!
 
 ## Features ✨
 
